@@ -14,9 +14,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymkhimself&layout=compact&langs_count=8&theme=cobalt)](https://github.com/ymkhimself/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymkhimself&layout=compact)](https://github.com/ymkhimself/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ymkhimself&show_icons=true&theme=cobalt)](https://github.com/ymkhimself/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ymkhimself&show_icons=true)](https://github.com/ymkhimself/github-readme-stats)
 
 
 <br/>  

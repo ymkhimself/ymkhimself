@@ -51,8 +51,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
 <a href="https://www.elastic.co/cn/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="EalsticSearch" height="50" /></a> 
 <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353950/kafka.svg" alt="Kafka" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="
-https://www.svgrepo.com/show/439175/graphql.svg" alt="Graphql" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373644/graphql.svg" alt="Graphql" height="50" /></a>  
 
 
 </div>

@@ -44,7 +44,7 @@
 
 ### Backend  
 <div align="left">  
-<a href="https://golang.google.cn/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/meritocracy.is/blog/wp-content/uploads/2021/04/golang.jpg?fit=1280%2C710&ssl=1" alt="golang" height="50" /></a>
+<a href="https://golang.google.cn/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349380/go.svg" alt="golang" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://nats.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/10203055?s=200&v=4" alt="NATS" height="50" /></a> 
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  

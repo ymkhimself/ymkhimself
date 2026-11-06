@@ -26,8 +26,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://cn.vuejs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" alt="Adobe XD" height="50" /></a>  
 
 </div>
@@ -40,7 +38,7 @@
 <div align="left">  
 <a href="https://golang.google.cn/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/349380/go.svg" alt="golang" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://nats.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/10203055?s=200&v=4" alt="NATS" height="50" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwqMsRSV75UNVLFW8mYRJVLQUZCn93_UzNkfo6pNtURQ&s" alt="python" height="50" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
 <a href="https://www.elastic.co/cn/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" alt="EalsticSearch" height="50" /></a> 
